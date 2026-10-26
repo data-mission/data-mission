@@ -1,4 +1,4 @@
-![Vlad Ryzhkov | AI Platform Engineer & Technical Lead](assets/profile-banner.png)
+![Vlad Ryzhkov | AI Platform Engineer — Production LLM systems](assets/profile-banner.png)
 
 I design and build production AI platforms: LLM applications, agent workflows, persistent memory, and the services that connect them to enterprise data.
 
