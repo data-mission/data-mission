@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Vlad Ryzhkov, AI Platform Engineer and Technical Lead">
+<rect width="1280" height="340" rx="14" fill="#101e31"/><rect x="0" y="0" width="8" height="340" fill="#71a8ff"/>
+<g fill="none" stroke="#6594c9" stroke-width="1" opacity=".13"><path d="M1030 22h184v296h-184M1066 56h113v228h-113M1100 91h45v158h-45"/><path d="M996 0v340M1240 0v340"/></g>
+<g font-family="DejaVu Sans,Arial,sans-serif"><text x="48" y="57" fill="#adc4e2" font-size="20" font-weight="500">Vlad Ryzhkov</text>
+<text x="44" y="133" fill="#f8fbff" font-size="53" font-weight="650">AI Platform Engineer</text><text x="44" y="195" fill="#f8fbff" font-size="53" font-weight="650">&amp; Technical Lead</text>
+<text x="48" y="252" fill="#b7d1f1" font-size="23">LLM applications  /  AI agents  /  model serving</text>
+<line x1="48" y1="278" x2="949" y2="278" stroke="#36516f"/>
+<text x="48" y="310" fill="#8faacb" font-size="17">From architecture to reliable production</text></g></svg>
