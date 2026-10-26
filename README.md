@@ -23,7 +23,7 @@ Apron connects model compatibility and resource planning with verification recor
 Explore the [implementation](https://github.com/mondegreens/apron/tree/main/src), [tests](https://github.com/mondegreens/apron/tree/main/tests), [measured records](https://github.com/mondegreens/apron#measured-records), and [architecture decisions](https://github.com/mondegreens/apron/tree/main/docs/adr).
 
 - **[PROOF](https://github.com/data-mission/proof-print-dialog):** a hackathon prototype with a browser interface and a local MCP server for inspecting print jobs. [Try the interface](https://data-mission.github.io/proof-print-dialog/).
-- **[Closure](https://github.com/data-mission/closure):** research I originated on LLM inference structure and output verification. Protocols, results, corrections, and open hypotheses are public. [Current status](https://github.com/data-mission/closure/blob/main/STATUS.md).
+- **[Closure](https://github.com/data-mission/closure):** research I originated on verification beyond LLM-as-a-judge through causal interventions and inference dynamics, with structural model control as a longer-term hypothesis. Protocols, results, corrections, and open hypotheses are public. [Current status](https://github.com/data-mission/closure/blob/main/STATUS.md).
 - **[Dota2-Cast-Assist](https://github.com/data-mission/dota2-cast-assist):** a Python service for game-state ingestion, Steam-data enrichment, and match-statistics APIs. [System design](https://github.com/data-mission/dota2-cast-assist/blob/main/images/system_design.png).
 
 **Tools I work with:** Python, PostgreSQL / pgvector, Kubernetes, vLLM / PyTorch, GCP / Vertex AI, and AWS.
